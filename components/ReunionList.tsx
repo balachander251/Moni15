@@ -16,7 +16,7 @@ export default function ReunionList({ items, location }: ReunionListProps) {
         <KineticText text="When We Meet" />
       </h2>
       <Reveal as="p" className="section__lede">
-        A little list of everything I want to do with you in {location || "person"}.
+        A little list of everything I want to do with you.}.
       </Reveal>
 
       <ol className="reunion__list">
