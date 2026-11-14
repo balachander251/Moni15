@@ -53,7 +53,7 @@ export const content = {
 
   // --- Love letter (each item becomes one short paragraph) ---
   loveLetterParagraphs: [
-    "Happy Birthday,Moni...Unakku enna sollanum, eppadi sollanum nu enakku theriyala. Ana en manasula un mela irukkura love a unakku sollanum nu romba nal aasapaduren.",
+    "Happy Birthday,Moni...Unakku enna sollanum, eppadi sollanum nu enakku theriyala. Ana en manasula un mela irukkura love innaiku illa epayum koraiyathu.🥹",
     "Un smile enakku romba pudikkum.unnoda kovam ennaku romba romba pudikum.Ana idhellathayum vida, nee nee ya irukkuradhu dhaan enakku romba pidikkum. Unna vera yaar koodayum compare panna enakku thonadhu. Yenna, en manasukku special ah irukkuradhu nee mattum dhaan.❤️‍🩹",
     "Future eppadi irukkum nu namakku theriyadhu. Ana namma rendu perum orutharukku oruthar honest ah, caring ah, understanding oda irundhu, Future la namba love ok aagi azhaga maintain pannanum nu naan aasapaduren.",
     "I Love You maa...🥹🫶",
