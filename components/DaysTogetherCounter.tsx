@@ -55,7 +55,7 @@ export default function DaysTogetherCounter({ startDateISO }: DaysTogetherCounte
   return (
     <div className="days-counter" role="status" aria-live="off">
       <span className="days-counter__value">{elapsed.days.toLocaleString("en-US")}</span>
-      <span className="days-counter__label">days together, and counting</span>
+      <span className="days-counter__label">days I'm with You, and counting</span>
       <span className="days-counter__ticker">
         {String(elapsed.hours).padStart(2, "0")}:{String(elapsed.minutes).padStart(2, "0")}:
         {String(elapsed.seconds).padStart(2, "0")}
