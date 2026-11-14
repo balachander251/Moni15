@@ -148,10 +148,8 @@ export const content = {
     "You're my favorite notification.",
     "Distance is just a math problem, my feelings for you aren't.",
     "If missing you was a sport, I'd have a trophy by now.",
-    "You make ordinary Tuesdays feel like something.",
     "I'd cross time zones just to hear you laugh.",
     "You're the best part of my day, every single day.",
-    "Home isn't a place, it's wherever you are.",
     "Still not tired of you. Never will be.",
   ] as string[],
 
