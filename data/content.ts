@@ -124,9 +124,9 @@ export const content = {
 
   // --- About the distance (each item becomes one short paragraph) ---
   distanceParagraphs: [
-    "Being far from you isn't easy, Moni. Some days it's just a text that takes a little longer to send. Other days it's really feeling every kilometer that's between us.",
-    "But distance hasn't shrunk how much I care, it's actually made me notice it more. Every call, every good morning text, every little update about your day means more than you probably know.",
-    "This part is temporary though. This October in Malang isn't just a date on a countdown, it's us finally getting to be in the same place again.",
+    "Moni ivalo nal naa daily clg varuva unna pappen ana inni naa clg varamatta unna romba miss pannuva..ithu ellam oru nal marum..🥺",
+    "Enakku unna miss panra indha feeling dhaan sila neram romba kashtama irukkum. Ana unna miss panradhu kuda nee enakku evlo special nu therithu ennaku.",
+    "Oru naal indha distance konjam konjama kuraiyanum. un kuda nerla time spend pannanum. Un kuda nadakkanum, serndhu sirikkanum, chinna chinna memories create pannanum, un pakkathula irundhu unna hug pannanum. 🫶🏻❤️",
   ] as string[],
 
   // --- When we meet (bucket list for the reunion) ---
