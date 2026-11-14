@@ -33,7 +33,7 @@ export default function ReasonsWhy({ partnerName, reasons }: ReasonsWhyProps) {
         A few reasons
       </Reveal>
       <h2 className="section__title">
-        <KineticText text="Why my heart will always choose you…💝" />
+        <KineticText text="Why my heart will always choose you…" />
       </h2>
       <Reveal as="p" className="section__lede">
         Tap a card to flip it.
