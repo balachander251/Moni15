@@ -131,11 +131,11 @@ export const content = {
 
   // --- When we meet (bucket list for the reunion) ---
   reunionBucketList: [
-    "Hug you first before saying anything else.",
-    "Find whatever food you've been wanting to try there.",
-    "Walk around slowly, no rush, just us.",
-    "Take way too many photos we'll never actually post.",
-    "Just sit somewhere quiet together and not have to say goodbye at the end.",
+    "Meet pannura apa naa unna torture pannathuku first kal la vilunthu sry kekanum.",
+    "Aparam Rendu perum nerukku ner kannu pathu pesanum.",
+    "Konja thooram thaniya namba rendu perum nadakanum.",
+    "Photo eduthu insta la story podanum,namba rendu perum sera mattom nu sonnavanga ellarum pakanum🥺.",
+    "Last ahh poitu varanu sollama oru nalla feeling oda poganum.",
   ] as string[],
 
   // --- Surprise interactions ---
