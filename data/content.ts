@@ -62,11 +62,11 @@ export const content = {
   // --- Wishes & prayers ---
   wishesIntro: "A few things I keep hoping for you, Moni:",
   wishes: [
-    "May you always be healthy and happy.",
-    "May all your dreams come true, one by one.",
-    "May you always be surrounded by people who love you.",
-    "May we keep finding reasons to smile together.",
-    "May 20's be the year everything you've worked quietly for starts falling into place.",
+    "Nee eppovume healthy ah happy ah irukkanum. Un face la irukkura smile eppovume ippadiye irukkanum.",
+    "Nee aasapadra ella vishayamum onu onna nadakkanum. Un dreams ellame seekirama nijamaaganum.",
+    "Unna unmaiya nesikkura people eppovume un kooda irukkanum. Nee eppovume love um care um kidaichu happy ah irukkanum.",
+    "Nee ivlo naala silent ah kashtapattu effort pottu senja ella vishayamum. indha 20s la onu onna nalla nadakka aarambikkanum. Nee aasapadra life a nee vaazhanum, un success a paathu nee perumai padanum.",
+    "Un life la evlo problems vandhaalum, nee thaniya illa. Naan eppovume unakku support ah irukkanum-nu aasapaduren. Un happiness dhaan enakku romba mukkiyam. Unakku azhagaana life um, neraya happiness-um, nee deserve panra ella nalla vishayangalum kidaikkanum. Love you so much maa! ❤️🫂.",
   ] as string[],
 
   // --- Photos ---
