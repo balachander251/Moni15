@@ -53,10 +53,10 @@ export const content = {
 
   // --- Love letter (each item becomes one short paragraph) ---
   loveLetterParagraphs: [
-    "Moni, happy birthday. I've read this sentence back about ten times now trying to make it sound big enough for what I actually feel, and it never quite gets there so I'll just say it plainly instead.",
-    "I'm so glad you exist. Not in a poetic, greeting-card way I mean it literally. Out of every timeline where we never meet, I somehow ended up in the one where I get to know you, and I don't take that for granted.",
-    "You have this way of making ordinary days feel like they mattered. A random text, a dumb joke, just you existing in my day. I notice it every time, even when I don't say so.",
-    "So today is about you. Every bit of it. I hope it's as soft and good to you as you are to everyone around you, and I hope you know today and every other day that you're loved. A lot. By me, Dudut.",
+    "Happy Birthday,Moni...Unakku enna sollanum, eppadi sollanum nu enakku theriyala. Ana en manasula un mela irukkura love a unakku sollanum nu romba nal aasapaduren."
+    "Un smile enakku romba pudikkum.unnoda kovam ennaku romba romba pudikum.Ana idhellathayum vida, nee nee ya irukkuradhu dhaan enakku romba pidikkum. Unna vera yaar koodayum compare panna enakku thonadhu. Yenna, en manasukku special ah irukkuradhu nee mattum dhaan.❤️‍🩹"
+    "Future eppadi irukkum nu namakku theriyadhu. Ana namma rendu perum orutharukku oruthar honest ah, caring ah, understanding oda irundhu, Future la namba love ok aagi azhaga maintain pannanum nu naan aasapaduren."
+    "I Love You maa...🥹🫶",
   ] as string[],
 
   // --- Wishes & prayers ---
