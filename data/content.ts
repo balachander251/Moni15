@@ -114,12 +114,12 @@ export const content = {
 
   // --- Reasons why (each item becomes one flip card) ---
   reasonsWhy: [
-    "The way you laugh at your own jokes before you even finish telling them.",
-    "How you check in on me even on your busiest, most tiring days.",
-    "You remember tiny little things I mention once and never bring up again.",
-    "You're kind to people even when you think no one's watching.",
-    "You make far away feel a little less far.",
-    "You're just you, and somehow that's already more than enough.",
+    "Un smile pakkura apa enakku evlo mosamaana naal ah irundhaalum, andha naal kuda azhaga maathidum..🥹❤️",
+    "Un kannu oru oru vaati paarkkumbodhum, enakku pudhusa oru santhosham kidaikkura maadhiri irukku..👀💗",
+    "Un kuda pesitu irukkumbodhu, love na enna nu unmaiyaave feel panna Romba happy ah, peaceful ah, special ah feel panren..❤️‍🩹♾️",
+    "En future ah pathi yosikkumbodhellaam, adhulayum nee en kuda irukkanum nu dhaan en manasu aasapadudhu..💍",
+    "Nee happy ah irukkura dha paakuradhu dhaan enakku indha ulagathulaye romba pidicha vishayam..♾️",
+    "Enakku perfect ah irukkura ponnu edhuvum thevai illa. Nee eppadi irukkiyo appadiye enakku nee podhum. Unna maathaama unnudaiya ella vishayathayum accept panni unna appadiye love pannanum nu dhaan aasapadura..🥹❤️",
   ] as string[],
 
   // --- About the distance (each item becomes one short paragraph) ---
